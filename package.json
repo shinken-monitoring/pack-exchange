@@ -1,0 +1,30 @@
+{
+	"name": "exchange",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-exchange",
+	"author": "Jean Gabes",
+	"description": "Microsoft Exchange checks, for database sizes, activity and errors",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-exchange",
+	"keywords": [
+	  "pack",
+	  "exchange-ht",
+	  "exchange-mb",
+	  "exchange-cas",
+	  "exchange-um"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
