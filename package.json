@@ -18,10 +18,13 @@
 	"repository": "https://github.com/shinken-monitoring/pack-exchange",
 	"keywords": [
 	  "pack",
-	  "exchange-ht",
-	  "exchange-mb",
-	  "exchange-cas",
-	  "exchange-um"
+	  "microsoft"
+	  "exchange",
+	  "hub transfert",
+	  "mail",
+	  "mail box"
+	  "cas",
+	  "unified messaging"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
