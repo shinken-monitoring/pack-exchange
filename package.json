@@ -18,11 +18,11 @@
 	"repository": "https://github.com/shinken-monitoring/pack-exchange",
 	"keywords": [
 	  "pack",
-	  "microsoft"
+	  "microsoft",
 	  "exchange",
 	  "hub transfert",
 	  "mail",
-	  "mail box"
+	  "mail box",
 	  "cas",
 	  "unified messaging"
 	],
